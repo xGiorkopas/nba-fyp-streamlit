@@ -1,0 +1,484 @@
+﻿#,Name,Age,boxCreationEst,offensiveLoad,USGpct,MP
+1,Nikola JokićDEN | C,30,18.4,65.8,29.5,2571
+2,Trae YoungATL | PG,27,15.6,65.1,29.6,2739
+3,Cade CunninghamDET | SG,24,15.2,64.6,33.2,2452
+4,LaMelo BallCHA | PG,24,14.2,66.1,35.9,1505
+5,Shai Gilgeous-AlexanderOKC | PG,27,14.1,61.9,34.8,2598
+6,Luka DončićLAL | SF,26,14.1,61.7,33.9,1769
+7,LeBron JamesLAL | PF,41,14,58.8,30.1,2444
+8,James HardenLAC | SG,36,13.3,58,29.6,2789
+9,Jalen BrunsonNYK | PG,29,12.7,57.1,29.5,2301
+10,Ja MorantMEM | PG,26,12.4,59.8,32.2,1519
+11,Stephen CurryGSW | PG,37,12.3,54.8,29.8,2252
+12,Darius GarlandCLE | PG,26,12.3,54.2,27.2,2301
+13,Tyrese HaliburtonIND | PG,25,11.8,53.2,21.6,2451
+14,Damian LillardPOR | PG,35,11,51.4,27.8,2093
+15,Devin BookerPHX | SG,29,10.3,52.7,29.3,2795
+16,Jayson TatumBOS | SF,27,10.2,53.3,31.2,2624
+17,Immanuel QuickleyTOR | PG,26,10.1,50.7,25.1,918
+18,Donovan MitchellCLE | SG,29,9.7,52.1,30.9,2232
+19,Ty JeromeMEM | PG,28,9.6,44.8,23.6,1392
+20,Brandon IngramTOR | SF,28,9.4,49.1,30.2,595
+21,Tyler HerroMIA | SG,26,9.3,48.2,28,2725
+22,Joel EmbiidPHI | C,31,9.3,52.9,34.2,574
+23,Josh GiddeyCHI | SF,23,9.2,45.7,21.7,2117
+24,Tyrese MaxeyPHI | PG,25,9,51.1,29.8,1960
+25,Jordan PooleNOP | SG,26,9,47,29,2001
+26,Dejounte MurrayNOP | PG,29,9,51.7,27.3,1012
+27,Anthony EdwardsMIN | SG,24,9,48.7,31.4,2871
+28,RJ BarrettTOR | SF,25,8.8,49.3,28.7,1869
+29,Paolo BancheroORL | PF,23,8.8,52.5,33.6,1582
+30,Jared ButlerPHX | SG,25,8.8,47.3,23.6,1044
+31,Collin SextonCHA | PG,27,8.8,45.6,27,1758
+32,Kevin DurantHOU | PF,37,8.5,44,28.7,2265
+33,Jalen WilliamsOKC | SG,24,8.5,47.3,27.5,2237
+34,De'Aaron FoxSAS | PG,28,8.5,49.3,28.3,2241
+35,Russell Westbrook| PG,37,8.3,45.8,23.8,2092
+36,Domantas SabonisSAC | C,29,8.3,41.4,21.6,2429
+37,Cam ThomasBKN | SG,24,8.3,49.6,32.6,781
+38,Austin ReavesLAL | SG,27,8.2,43.2,23.7,2550
+39,Jamal MurrayDEN | PG,28,8.1,44.3,24,2418
+40,Giannis AntetokounmpoMIL | PF,31,8,56.1,35.2,2289
+41,Desmond BaneORL | SG,27,8,42.7,23.3,2205
+42,Bones HylandMIN | PG,25,8,43.9,28.2,239
+43,Franz WagnerORL | SF,24,7.9,50,31,2023
+44,Scoot HendersonPOR | PG,21,7.8,43.2,22.5,1759
+45,Scotty Pippen Jr.MEM | PG,25,7.7,40.8,19.3,1683
+46,Kyrie IrvingDAL | PG,33,7.7,44.2,27.4,1804
+47,D'Angelo RussellDAL | PG,29,7.7,46.3,24,1480
+48,Brandon WilliamsDAL | PG,26,7.7,40.2,22.6,487
+49,Keyonte GeorgeUTA | SG,22,7.6,44.2,24.3,2109
+50,Zach LaVineSAC | SG,30,7.5,40,25.3,2602
+51,Malik MonkSAC | SG,27,7.5,44.7,24.6,2054
+52,Jordan ClarksonNYK | SG,33,7.5,45.2,27.8,962
+53,T.J. McConnellIND | PG,33,7.4,48.4,23.4,1415
+54,Khris MiddletonWAS | SF,34,7.4,41.7,22,843
+55,Jaylen BrownBOS | SF,29,7.3,46.1,28.9,2158
+56,Jaden IveyDET | SG,23,7.3,41.2,26,898
+57,Victor WembanyamaSAS | C,22,7.2,44.2,30.4,1527
+58,Scottie BarnesTOR | SF,24,7.2,47,27,2134
+59,Julius RandleMIN | PF,31,7.2,41.8,25,2226
+60,Rob DillinghamMIN | PG,21,7.1,42.3,22.7,516
+61,Kevin Porter Jr.MIL | SG,25,7.1,43.7,25.4,1482
+62,Dennis SchröderSAC | PG,32,7.1,43,21.6,2105
+63,Chris PaulLAC | PG,40,7.1,40.6,14,2292
+64,Anfernee SimonsBOS | PG,26,7.1,43.2,24.6,2292
+65,Cole AnthonyMIL | PG,25,7,42.5,24.6,1234
+66,Cameron Payne| PG,31,7,42.5,20.8,1090
+67,CJ McCollumWAS | SG,34,6.8,43.8,27.2,1832
+68,Zion WilliamsonNOP | PF,25,6.7,55.2,34.7,857
+69,Tyus JonesORL | PG,29,6.7,38,16.2,2174
+70,Tre MannCHA | PG,24,6.6,41.4,26,319
+71,Coby WhiteCHI | PG,26,6.6,39.7,24.4,2450
+72,Karl-Anthony TownsNYK | C,30,6.5,39.9,27.4,2517
+73,Jose AlvaradoNOP | PG,27,6.5,40.4,19.8,1366
+74,Jimmy Butler IIIGSW | SF,36,6.5,41,20.8,1746
+75,Deni AvdijaPOR | SF,25,6.5,38.3,23.2,2161
+76,Miles BridgesCHA | SF,27,6.4,44.2,28,2029
+77,Malcolm Brogdon| PG,33,6.4,42.7,23.7,564
+78,Kawhi LeonardLAC | SF,34,6.4,41.2,27.7,1180
+79,Jalen SuggsORL | PG,24,6.4,42.2,27.5,1002
+80,Marcus SasserDET | PG,25,6.3,37.3,19.4,811
+81,Danté ExumDAL | SG,30,6.3,36.5,19.6,372
+82,Collin GillespiePHX | PG,26,6.3,37.3,17.7,461
+83,Stephon CastleSAS | SG,21,6.2,42.9,26,2162
+84,Jamal SheadTOR | PG,23,6.2,40.1,18.6,1467
+85,De'Anthony Melton| SG,27,6.2,39.5,23.5,121
+86,Anthony DavisDAL | C,32,6.2,44.4,30.4,1706
+87,Jalen GreenPHX | SG,23,6,41.8,27.3,2697
+88,Isaiah CollierUTA | PG,21,6,40.8,18.9,1839
+89,Derrick WhiteBOS | SG,31,6,36.6,19.8,2574
+90,Cameron JohnsonDEN | SF,29,6,37.2,22.9,1800
+91,Paul GeorgePHI | SF,35,5.9,38.4,23.5,1334
+92,DeMar DeRozanSAC | SF,36,5.9,41.2,25,2768
+93,Brandon MillerCHA | SF,23,5.9,41.3,27.7,924
+94,Dalano Banton| SG,26,5.7,40.5,24.1,1120
+95,Bam AdebayoMIA | C,28,5.7,38.6,23.5,2674
+96,Payton PritchardBOS | PG,28,5.6,34.8,19,2271
+97,Killian Hayes| PG,24,5.6,35.5,15.5,162
+98,Kelly OlynykSAS | C,34,5.6,33.2,18.5,891
+99,Jared McCainPHI | SG,21,5.6,37.6,24.7,592
+100,Donte DiVincenzoMIN | SG,29,5.6,35.1,19.4,1606
+101,Trendon WatfordPHI | PF,25,5.5,37,23.3,913
+102,Tre JonesCHI | PG,26,5.5,35.7,14.1,905
+103,Quentin GrimesPHI | SG,25,5.5,35.9,22.8,2013
+104,Pascal SiakamIND | PF,31,5.5,37.6,24.2,2548
+105,Marcus SmartLAL | PG,31,5.5,36.9,20.6,680
+106,Jalen JohnsonATL | PF,24,5.5,37.2,22.5,1284
+107,Evan MobleyCLE | PF,24,5.5,35.8,23.2,2167
+108,Bradley BealLAC | SG,32,5.5,35.9,22.1,1702
+109,Alperen SengunHOU | C,23,5.5,44.3,26.2,2395
+110,Nikola VučevićCHI | C,35,5.4,35.6,22.4,2278
+111,Moritz WagnerORL | C,28,5.4,36.7,26.8,564
+112,Tyler KolekNYK | PG,24,5.3,39.2,15.8,296
+113,Trey Murphy IIINOP | SF,25,5.3,36.9,23.7,1854
+114,Mike ConleyMIN | PG,38,5.3,33.7,14.4,1756
+115,Aaron GordonDEN | PF,30,5.3,32.5,19,1447
+116,Vasilije Micić| PG,32,5.2,36,19.9,785
+117,Kristaps PorziņģisATL | C,30,5.1,37.4,25.9,1210
+118,Draymond GreenGSW | PF,35,5.1,34.2,15.9,1983
+119,Caris LeVertDET | SF,31,5.1,34.7,19.4,1596
+120,Spencer DinwiddieCHA | PG,32,5,35.2,17.9,2136
+121,Pat Spencer| SG,29,4.9,40.8,21.2,250
+122,Lester Quinones| SG,25,4.8,36.8,22.6,183
+123,Jonathan KumingaGSW | SF,23,4.8,39.7,27.4,1144
+124,Jeff Dowtin Jr.PHI | PG,28,4.8,34.1,18.6,621
+125,Fred VanVleetHOU | PG,31,4.8,35.8,17.7,2111
+126,Ryan RollinsMIL | PG,23,4.7,31.2,18.4,820
+127,Malaki BranhamWAS | SG,22,4.7,34,23.8,427
+128,Lonnie Walker IV| SG,27,4.7,35.7,22.8,477
+129,Jaren Jackson Jr.MEM | PF,26,4.7,38,28.1,2207
+130,Jaden HardyDAL | SG,23,4.7,35,25.3,907
+131,Davion MitchellMIA | PG,27,4.7,31.1,13.6,2027
+132,Tristan VukcevicWAS | C,22,4.6,34.8,25.7,513
+133,Quenton JacksonIND | PG,27,4.6,32.6,17.7,381
+134,Luke KennardATL | SG,29,4.6,29.6,14.5,1472
+135,Craig Porter Jr.CLE | PG,25,4.6,29.5,15.9,513
+136,Andrew WigginsMIA | SF,30,4.6,35.9,24.5,1842
+137,Talen Horton-Tucker| SG,25,4.5,34.2,21.6,724
+138,Shaedon SharpePOR | SG,22,4.5,36.8,25.1,2252
+139,Norman PowellMIA | SG,32,4.5,35.4,26.1,1958
+140,Markelle Fultz| PG,27,4.5,33.7,19.3,184
+141,Josh HartNYK | SF,30,4.5,31.6,15.3,2897
+142,Brandin PodziemskiGSW | SG,22,4.5,33,18.3,1716
+143,Jordan McLaughlinSAS | PG,29,4.4,29.7,13.3,314
+144,Isaiah Wong| SG,25,4.4,34.5,22.1,265
+145,Nikola JovićMIA | PF,22,4.3,31,18.3,1156
+146,Jaylin WilliamsOKC | C,23,4.3,30.2,14.6,784
+147,Andrew NembhardIND | PG,26,4.3,32.9,16.3,1881
+148,Monté MorrisPHX | PG,30,4.2,32.5,18.1,571
+149,John CollinsLAC | PF,28,4.2,32.2,24.2,1220
+150,Jaime Jaquez Jr.MIA | SF,24,4.2,32.8,20.2,1368
+151,Ayo DosunmuCHI | SG,26,4.2,31.4,16.6,1394
+152,Anthony BlackORL | PG,22,4.2,32.9,19.6,1887
+153,Santi AldamaMEM | PF,25,4.1,31.5,18.5,1660
+154,Mikal BridgesNYK | SF,29,4.1,31.8,19.6,3036
+155,Jevon CarterCHI | PG,30,4.1,34.9,21,321
+156,Duncan RobinsonDET | SF,31,4.1,30.6,19.2,1785
+157,Devin VassellSAS | SG,25,4.1,33.8,22.1,1983
+158,Brice SensabaughUTA | SF,22,4.1,30.5,21.5,1432
+159,Blake WesleyPOR | PG,22,4.1,32.2,16.7,683
+160,Keaton WallaceATL | PG,26,4,31.7,16.4,501
+161,Naz ReidMIN | C,26,3.9,32.1,21.5,2200
+162,Kyle AndersonUTA | PF,32,3.9,31.5,15.9,1002
+163,Kevin LoveUTA | PF,37,3.9,35.4,24.6,251
+164,Jusuf NurkićUTA | C,31,3.9,31,20.6,1063
+165,Dyson DanielsATL | SG,22,3.9,31.4,18.2,2571
+166,Cam SpencerMEM | SG,25,3.9,30.4,15.4,252
+167,Bobby PortisMIL | PF,30,3.9,34.1,24.1,1244
+168,Obi ToppinIND | PF,27,3.8,29.9,20.1,1545
+169,Nick Smith Jr.CHA | SG,21,3.8,33,20.8,1369
+170,Naji MarshallDAL | SF,28,3.8,31.5,20,1919
+171,Damion Lee| SG,33,3.8,37.9,28.6,144
+172,Bogdan BogdanovićLAC | SG,33,3.8,30.4,18.7,1348
+173,Aaron HolidayHOU | PG,29,3.8,29.3,16.8,792
+174,Shake Milton| SG,29,3.7,29.7,16.7,837
+175,Quinten PostGSW | C,25,3.7,29.9,19.6,686
+176,Jrue HolidayPOR | PG,35,3.7,29.8,15.8,1896
+177,Jalen PickettDEN | PG,26,3.7,29.4,13.2,666
+178,Vít KrejčíATL | SF,25,3.6,25.6,12.9,1153
+179,Svi MykhailiukUTA | SG,28,3.6,31.1,20.3,760
+180,Max StrusCLE | SG,29,3.6,27.8,14.7,1273
+181,Lonzo BallCLE | PG,28,3.6,30,15.9,777
+182,Grayson AllenPHX | SG,30,3.6,27.6,17.6,1544
+183,Chet HolmgrenOKC | C,23,3.6,30.4,22,877
+184,Bub CarringtonWAS | SG,20,3.6,30,15.8,2458
+185,Sandro MamukelashviliTOR | PF,26,3.5,30.2,20.8,681
+186,Miles McBrideNYK | PG,25,3.5,30.5,16.8,1593
+187,MarJon Beauchamp| SG,25,3.5,31.4,24.9,156
+188,Kyle FilipowskiUTA | PF,22,3.5,28.5,18.7,1522
+189,Kobe BufkinATL | SG,22,3.5,34.4,20.8,124
+190,Jonas ValančiūnasDEN | C,33,3.5,33.7,22.8,1524
+191,Elfrid Payton| PG,31,3.5,42.1,15.2,511
+192,Alex CarusoOKC | PG,31,3.5,29.1,15.2,1041
+193,Aaron WigginsOKC | SG,27,3.5,30,20.3,1744
+194,Zach CollinsCHI | C,28,3.4,28.2,17.1,977
+195,Nickeil Alexander-WalkerATL | SG,27,3.4,27.6,16,2073
+196,Malik Beasley| SG,29,3.4,31.4,22.5,2283
+197,Klay ThompsonDAL | SG,35,3.4,31.1,21.8,1965
+198,Cam WhitmoreWAS | SF,21,3.4,33,23.9,827
+199,Amen ThompsonHOU | SF,23,3.4,30.2,17.5,2225
+200,Reggie Jackson| PG,35,3.3,30.1,17.5,384
+201,Luka GarzaBOS | C,27,3.3,33.9,26.2,219
+202,Kyle KuzmaMIL | PF,30,3.3,32.2,24,1936
+203,Keon JohnsonBKN | SG,23,3.3,31.9,21.7,1925
+204,De'Andre HunterCLE | SF,28,3.3,30.5,22.8,1740
+205,Alex SarrWAS | PF,20,3.3,33.3,23.5,1814
+206,Ajay MitchellOKC | SG,23,3.3,27.3,16.2,597
+207,Tyrese MartinBKN | SG,26,3.2,28.9,18.8,1315
+208,Terry RozierMIA | PG,31,3.2,31.5,20.4,1658
+209,Terrence Shannon Jr.MIN | SG,25,3.2,28.4,17.7,339
+210,Reed SheppardHOU | PG,21,3.2,30.4,17.8,654
+211,KJ SimpsonCHA | PG,23,3.2,32.6,19.1,842
+212,Jeremy SochanSAS | PF,22,3.2,28.7,19,1364
+213,Jake LaRaviaLAL | SF,24,3.2,25.5,14.4,1349
+214,Day'Ron Sharpe| C,24,3.2,30.3,19.9,907
+215,Damion Baugh| SG,25,3.2,33.4,19.3,370
+216,Bronny JamesLAL | PG,21,3.2,32.7,20.9,181
+217,Michael Porter Jr.BKN | PF,27,3.1,28.7,20.2,2593
+218,Keldon JohnsonSAS | SF,26,3.1,30.4,21.6,1838
+219,Jaylen Nowell| PG,26,3.1,33.7,21.6,168
+220,Jarace WalkerIND | PF,22,3.1,26,17.1,1187
+221,Buddy HieldGSW | SG,32,3.1,29.6,20.5,1863
+222,Bennedict MathurinIND | SF,23,3.1,29.8,22.8,2149
+223,Paul ReedDET | PF,26,3,28.2,18,438
+224,Pat ConnaughtonCHA | SG,33,3,27.2,15.6,603
+225,P.J. WashingtonDAL | PF,27,3,28,20.4,1835
+226,Orlando RobinsonORL | C,25,3,28.8,18.5,770
+227,Jared Rhoden| SG,26,3,28.9,19.7,227
+228,Jalen Hood-Schifino| PG,22,3,29.1,17.3,315
+229,Gary Payton IIGSW | SG,33,3,26.3,16.1,927
+230,Lauri MarkkanenUTA | PF,28,2.9,31.5,24,1476
+231,Jalen SmithCHI | PF,25,2.9,29.4,21,962
+232,Isaiah JoeOKC | SG,26,2.9,26.7,17.2,1604
+233,Tosan EvbuomwanBKN | SF,24,2.8,28.1,19.1,665
+234,Onyeka OkongwuATL | C,25,2.8,26.3,17.3,2064
+235,OG AnunobyNYK | SF,28,2.8,27.8,19.7,2706
+236,Markieff Morris| C,36,2.8,34.4,20.5,165
+237,Larry Nance Jr.CLE | C,33,2.8,24.9,15.7,463
+238,Jaylon TysonCLE | SG,23,2.8,27.1,17.4,453
+239,Jay HuffIND | C,27,2.8,26.8,19.6,748
+240,Dru Smith| SG,28,2.8,21.9,13.8,268
+241,Christian BraunDEN | SF,24,2.8,25,15.8,2675
+242,Bilal CoulibalyWAS | SF,21,2.8,27.7,17.9,1948
+243,Ausar ThompsonDET | SF,23,2.8,29.5,19.1,1328
+244,AJ JohnsonWAS | SG,21,2.8,29.1,17.4,639
+245,Royce O'NealePHX | SF,32,2.7,25.3,15.5,1837
+246,Matisse ThybullePOR | SF,28,2.7,24.3,14.4,312
+247,Mark WilliamsPHX | C,24,2.7,31.8,21.4,1171
+248,Kevin HuerterCHI | SG,27,2.7,27.5,17.5,1679
+249,Guerschon YabuseleNYK | PF,30,2.7,25,16.3,1895
+250,Gradey DickTOR | SG,22,2.7,28.8,21,1587
+251,Drew TimmeBKN | C,25,2.7,30.1,21.3,254
+252,Bol Bol| C,26,2.7,27.6,21.1,448
+253,Ben Simmons| PF,29,2.7,34.5,13.2,1120
+254,Vince Williams Jr.MEM | SG,25,2.6,27.4,17,499
+255,Myles TurnerMIL | C,29,2.6,26.5,20.7,2174
+256,Georges NiangUTA | PF,32,2.6,25.4,17.9,1697
+257,Devin CarterSAC | SG,23,2.6,28.9,17.9,396
+258,Cory Joseph| PG,34,2.6,25.4,12.8,612
+259,Tari EasonHOU | PF,24,2.5,27.4,19.4,1420
+260,Ricky Council IV| SG,24,2.5,29.4,20.3,1250
+261,Kenrich WilliamsOKC | SF,31,2.5,24.7,15.4,1132
+262,Jerami GrantPOR | PF,31,2.5,28,19.4,1524
+263,Antonio ReevesCHA | SG,25,2.5,26.2,18.8,660
+264,A.J. LawsonTOR | SG,25,2.5,28.7,20,486
+265,Trevelin Queen| SG,28,2.4,27.6,18.1,430
+266,Tobias HarrisDET | PF,33,2.4,26,17.6,2305
+267,Nate Williams| SF,26,2.4,28.6,22.3,147
+268,Moses Brown| C,26,2.4,25,23.5,119
+269,Eric GordonPHI | SG,37,2.4,23.5,14.4,768
+270,Dariq WhiteheadBKN | SG,21,2.4,25.7,20.1,246
+271,Bruce BrownDEN | SG,29,2.4,27.1,17.2,922
+272,Tyson EtienneBKN | PG,26,2.3,27.2,18.6,151
+273,TyTy Washington Jr.LAC | PG,24,2.3,33.4,19,118
+274,Terance MannBKN | SF,29,2.3,23.8,14.7,1414
+275,Kris DunnLAC | PG,31,2.3,24.1,12.7,1783
+276,Josh MinottBOS | PF,23,2.3,24.9,17.2,276
+277,Jock LandaleMEM | C,30,2.3,24.5,15.7,500
+278,Jakob PoeltlTOR | C,30,2.3,27.8,18.7,1686
+279,Ja'Kobe WalterTOR | PG,21,2.3,26.6,18.2,1103
+280,Herbert JonesNOP | SF,27,2.3,24.4,14.6,648
+281,Harrison BarnesSAS | PF,33,2.3,23.4,15.7,2230
+282,Gui SantosGSW | PF,23,2.3,23.2,13.2,762
+283,Garrison MathewsATL | SG,29,2.3,24,15.9,830
+284,GG JacksonMEM | PF,21,2.3,28.7,21.7,459
+285,Daniel GaffordDAL | C,27,2.3,26.6,19.5,1226
+286,Dalen TerryCHI | SG,23,2.3,23.8,14.9,987
+287,Chris BoucherBOS | C,33,2.3,27.6,21.2,862
+288,Branden CarlsonOKC | C,26,2.3,26.8,19.3,246
+289,Alec Burks| SG,34,2.3,24.2,16.5,863
+290,Zaccharie RisacherATL | SF,20,2.2,27.1,20.9,1843
+291,Tyler SmithMIL | PF,21,2.2,25.6,22.1,122
+292,Kyshawn GeorgeWAS | SF,22,2.2,24.9,15.9,1802
+293,Kyle LowryPHI | PG,39,2.2,24.1,10.1,659
+294,Josh OkogieHOU | SF,27,2.2,25.8,19.5,625
+295,Jonathan MogboTOR | PF,24,2.2,25.8,15,1286
+296,Ivica ZubacLAC | C,28,2.2,28.2,19.5,2624
+297,Isaiah HartensteinOKC | C,27,2.2,29.1,16.7,1590
+298,Grant WilliamsCHA | PF,27,2.2,22.5,14.8,479
+299,David RoddyTOR | PF,24,2.2,24.3,16,410
+300,Corey KispertWAS | SF,26,2.2,25,17.5,1602
+301,Bruno Fernando| C,27,2.2,29,18.9,147
+302,Seth Curry| SG,35,2.1,23.1,15.7,1062
+303,Patty Mills| PG,37,2.1,23.7,15.6,321
+304,Moses MoodyGSW | SG,23,2.1,24.9,17.4,1649
+305,Lamar Stevens| SF,28,2.1,26,20.2,155
+306,Jordan MillerLAC | SF,26,2.1,26,18.2,420
+307,Jalen WilsonBKN | SF,25,2.1,24.8,16.6,2031
+308,Jalen DurenDET | C,22,2.1,25.5,16.4,2034
+309,Dario ŠarićSAC | PF,31,2.1,25.1,15.6,210
+310,Aaron NesmithIND | SF,26,2.1,23.2,17.4,1123
+311,Trayce Jackson-DavisGSW | C,25,2,28,17.1,967
+312,Thomas Bryant| C,28,2,23.6,17.1,963
+313,Ronald Holland IIDET | SG,20,2,24.7,18.1,1266
+314,Patrick WilliamsCHI | SF,24,2,24.3,16.9,1576
+315,Julian StrawtherDEN | SF,23,2,24.8,17.8,1384
+316,Julian ChampagnieSAS | SF,24,2,24,17.2,1932
+317,Johnny Juzang| SG,24,2,24.7,17.6,1270
+318,Dillon BrooksPHX | SF,30,2,25.3,17.7,2388
+319,Deandre AytonLAL | C,27,2,25.9,19.4,1206
+320,Ziaire Williams| SF,24,1.9,24.7,18.2,1541
+321,Wendell Carter Jr.ORL | C,26,1.9,24.1,16,1758
+322,Sam MerrillCLE | SG,29,1.9,22.9,14.3,1401
+323,Pelle LarssonMIA | SG,24,1.9,23.1,14.4,782
+324,Ousmane DiengOKC | SF,22,1.9,23.5,15.7,405
+325,Nic ClaxtonBKN | C,26,1.9,25.5,16.8,1882
+326,Matas BuzelisCHI | PF,21,1.9,24.1,18.7,1511
+327,Kelly Oubre Jr.PHI | SF,30,1.9,25.5,18.9,2078
+328,Karlo MatkovićNOP | C,24,1.9,21.9,15.9,791
+329,Jordan HawkinsNOP | SG,23,1.9,27.6,21,1321
+330,Jett HowardORL | SF,22,1.9,26.2,19.2,701
+331,Jaden McDanielsMIN | SF,25,1.9,23.5,16.3,2614
+332,Garrett TempleTOR | SF,39,1.9,26.7,13.9,227
+333,Dalton KnechtLAL | SF,24,1.9,24.7,18.5,1494
+334,Cody Martin| SF,30,1.9,23.8,14.7,1173
+335,Al Horford| C,39,1.9,22.5,13.8,1659
+336,Wendell Moore Jr.| SG,24,1.8,21.7,13.8,499
+337,Max ChristieDAL | SG,22,1.8,22.3,15.2,2127
+338,Marvin Bagley IIIWAS | PF,26,1.8,26.4,20.9,265
+339,Justin EdwardsPHI | SF,22,1.8,23.4,16.9,1155
+340,Jeff GreenHOU | PF,39,1.8,21.9,14.7,396
+341,Jaylen WellsMEM | SF,22,1.8,23.5,15.9,2043
+342,Jarrett AllenCLE | C,27,1.8,23,15.9,2296
+343,Jae'Sean TateHOU | PF,30,1.8,22.1,13.3,588
+344,Goga BitadzeORL | C,26,1.8,23.5,14.3,1430
+345,Duop ReathPOR | C,29,1.8,24.2,17,469
+346,Cason WallaceOKC | PG,22,1.8,21.9,12.8,1876
+347,Brook LopezLAC | C,37,1.8,21.8,15.8,2546
+348,Baylor ScheiermanBOS | SG,25,1.8,23.9,14.5,384
+349,Tristan da SilvaORL | PF,24,1.7,22.9,15.2,1629
+350,Toumani CamaraPOR | PF,25,1.7,21.8,14.4,2548
+351,Richaun Holmes| C,32,1.7,22.4,14.7,534
+352,Jordan GoodwinPHX | PG,27,1.7,21.3,14.1,543
+353,Jeremiah Robinson-Earl| PF,25,1.7,21.7,14.4,1239
+354,Jaden SpringerNOP | SG,23,1.7,23.2,14.3,365
+355,Jabari WalkerPHI | PF,23,1.7,22.4,16.3,749
+356,Drew EubanksSAC | C,28,1.7,21.9,15.1,746
+357,Dereck Lively IIDAL | C,21,1.7,22.7,13.6,833
+358,Colby JonesDET | SG,23,1.7,21.9,13.7,515
+359,Tim Hardaway Jr.DEN | SG,33,1.6,22.4,15.5,2153
+360,Reece Beekman| PG,24,1.6,25.3,12.8,469
+361,Ochai AgbajiTOR | SG,25,1.6,21.2,14.6,1739
+362,Maxwell Lewis| SG,23,1.6,23.3,16.9,327
+363,Kobe BrownLAC | PF,26,1.6,22.2,14,272
+364,Keon EllisSAC | SG,26,1.6,18.9,12.7,1948
+365,Kel'el WareMIA | C,21,1.6,22.1,17.2,1422
+366,Isaiah StewartDET | C,24,1.6,20.2,12.4,1434
+367,Isaac JonesSAC | PF,25,1.6,20.4,16.3,304
+368,Gary Trent Jr.MIL | SG,27,1.6,22.8,17.1,1893
+369,Dillon JonesWAS | SF,24,1.6,22.7,13.3,551
+370,Caleb MartinDAL | SF,30,1.6,21.8,14.4,1218
+371,Zach EdeyMEM | C,23,1.5,20.8,16.4,1416
+372,Taurean PrinceMIL | SF,31,1.5,19.2,12.5,2166
+373,Rui HachimuraLAL | PF,27,1.5,21.4,15.8,1869
+374,Nick RichardsPHX | C,28,1.5,20.8,17.3,1256
+375,Kai Jones| C,25,1.5,18.5,13,468
+376,Jaylen Martin| SF,22,1.5,22.6,15.9,239
+377,Jamison BattleTOR | SF,24,1.5,21.6,15.3,1042
+378,Drew PetersonCHA | PF,26,1.5,19.4,12.5,186
+379,Charles Bassey| C,25,1.5,21.7,17.5,376
+380,Andre DrummondPHI | C,32,1.5,22.9,19.1,751
+381,Trey AlexanderNOP | SG,22,1.4,26.5,17.3,117
+382,Rayan RupertPOR | SG,21,1.4,21.9,16.8,460
+383,Olivier-Maxence ProsperDAL | PF,23,1.4,23.9,16.3,584
+384,Noah ClowneyBKN | PF,21,1.4,23.8,19,1042
+385,Lindy Waters IIISAS | SG,28,1.4,22.4,14.8,778
+386,Kevon LooneyNOP | C,29,1.4,23.4,13.3,1142
+387,Keion Brooks Jr.| SF,25,1.4,22.2,17.1,332
+388,Justin ChampagnieWAS | SF,24,1.4,20.4,15.6,1340
+389,Delon Wright| PG,33,1.4,22.3,11.3,635
+390,Daniel Theis| C,33,1.4,20.6,11.6,621
+391,Brandon ClarkeMEM | PF,29,1.4,21.5,15.3,1207
+392,Amir Coffey| SF,28,1.4,20.8,15.3,1748
+393,AJ GreenMIL | SG,26,1.4,19.1,12.6,1659
+394,Walker KesslerUTA | C,24,1.3,19.1,13.7,1740
+395,Trey LylesSAC | PF,30,1.3,21.1,14.3,1349
+396,Simone FontecchioMIA | PF,30,1.3,21.3,15.8,1237
+397,Oscar Tshiebwe| C,26,1.3,19.6,15.3,255
+398,Neemias QuetaBOS | C,26,1.3,18.8,13.7,863
+399,Luke KornetSAS | C,30,1.3,20.3,11.4,1361
+400,Jamal CainORL | SF,26,1.3,21.9,17,502
+401,Donovan ClinganPOR | C,21,1.3,19.8,14.2,1324
+402,Clint CapelaHOU | C,31,1.3,22.5,16.7,1176
+403,Andre Jackson Jr.MIL | SF,24,1.3,18.4,11.9,980
+404,Torrey Craig| PF,35,1.2,20.2,14.1,314
+405,Steven AdamsHOU | C,32,1.2,20.6,13.6,794
+406,Sam HauserBOS | SF,28,1.2,20.1,14.3,1541
+407,Rudy GobertMIN | C,33,1.2,18.4,13,2388
+408,Robert Williams IIIPOR | C,28,1.2,17.8,12.2,351
+409,Peyton WatsonDEN | SF,23,1.2,19.7,13.9,1656
+410,Pete NanceMIL | PF,25,1.2,18.6,11.7,138
+411,Mason PlumleeCHA | C,35,1.2,19.6,10.8,1300
+412,Luguentz DortOKC | SG,26,1.2,19.8,13.6,2073
+413,Isaac OkoroCHI | SF,25,1.2,19.4,12.5,1053
+414,Gabe VincentLAL | SG,29,1.2,20.3,13.5,1527
+415,Dominick Barlow| PF,22,1.2,21,14.5,375
+416,Derrick Jones Jr.LAC | PF,28,1.2,20.5,16.5,1873
+417,DeAndre Jordan| C,37,1.2,19,12.8,691
+418,Chuma Okeke| PF,27,1.2,17.9,9.8,196
+419,Adem BonaPHI | C,22,1.2,16.3,14.3,905
+420,Yves MissiNOP | C,21,1.1,19.6,14.3,1956
+421,Mouhamed GueyeATL | C,23,1.1,21.6,15.7,533
+422,Kentavious Caldwell-PopeMEM | SG,32,1.1,18.9,12.4,2279
+423,Jaxson HayesLAL | C,25,1.1,17.3,12.4,1093
+424,Jarred VanderbiltLAL | PF,26,1.1,18.4,12.5,581
+425,Jabari Smith Jr.HOU | PF,22,1.1,21.5,16.4,1716
+426,Tidjane SalaünCHA | PF,20,1,21.1,15.2,1244
+427,Ryan DunnPHX | PF,23,1,21.6,16.7,1410
+428,Precious Achiuwa| PF,26,1,19.9,14.9,1170
+429,Moussa DiabatéCHA | C,24,1,17.7,13.4,1241
+430,Mo Bamba| C,27,1,19.1,15.2,413
+431,Landry Shamet| SG,28,1,19.4,14.8,762
+432,Kris MurrayPOR | PF,25,1,20.5,13.9,1040
+433,Kessler Edwards| SF,25,1,17.7,11.1,608
+434,Keegan MurraySAC | PF,25,1,20.2,15,2610
+435,Josh Richardson| SF,32,1,20.9,14.1,150
+436,Hunter TysonDEN | PF,25,1,20.8,15.5,400
+437,Colin Castleton| C,25,1,18.9,13.4,432
+438,Alex Len| C,32,1,18.4,10.3,380
+439,Adam FlaglerSAS | SG,26,1,28.5,21.1,203
+440,Oshae Brissett| PF,27,0.9,18.7,16.3,142
+441,KJ MartinUTA | SF,25,0.9,17,11.5,912
+442,Jonathan IsaacORL | PF,28,0.9,20.7,16.2,1090
+443,Jaylen ClarkMIN | SG,24,0.9,17.8,12,522
+444,Haywood HighsmithMIA | SF,29,0.9,17.3,11.3,1818
+445,Dwight PowellDAL | C,34,0.9,16.1,7.6,551
+446,Ben SheppardIND | SG,24,0.9,18.1,11.3,1228
+447,Taj Gibson| C,40,0.8,17.4,13.4,409
+448,Oso IghodaroPHX | C,23,0.8,16.5,10.5,1045
+449,Mitchell RobinsonNYK | C,27,0.8,15.5,11.1,290
+450,Josh GreenCHA | SG,25,0.8,17.3,11.8,1887
+451,Johnny Davis| SG,23,0.8,21,15.9,242
+452,Dorian Finney-SmithHOU | SF,32,0.8,17.1,12.3,1818
+453,DaQuan JeffriesCHA | SG,28,0.8,18.8,13.5,1071
+454,Bismack Biyombo| C,33,0.8,16.9,12.3,528
+455,Ariel HukportiNYK | C,23,0.8,13.4,11.6,217
+456,Doug McDermottSAC | SF,34,0.7,19.2,15.7,342
+457,Vlatko ČančarDEN | PF,28,0.6,15.2,11.5,136
+458,Tristan Thompson| C,34,0.6,18.9,12.7,328
+459,Trey Jemison| C,26,0.6,14.9,12.4,392
+460,Kylor Kelley| C,28,0.6,13.9,10.3,126
+461,Johnny FurphyIND | SF,21,0.6,17.5,13,379
+462,Enrique FreemanMIN | C,25,0.6,16.6,12.3,181
+463,Dean WadeCLE | PF,29,0.6,16.4,10.4,1252
+464,Christian KolokoLAL | C,25,0.6,14.9,10.8,342
+465,Caleb Houstan| SG,23,0.6,16.8,11.7,788
+466,Anthony GillWAS | PF,33,0.6,16.9,12.7,397
+467,Zeke NnajiDEN | PF,25,0.5,16.2,12.2,608
+468,Nicolas BatumLAC | SF,37,0.5,14.6,9,1367
+469,Marcus Bagley| SF,24,0.5,17.9,13.8,253
+470,Javonte Green| SF,32,0.5,16.5,11.8,1258
+471,Julian PhillipsCHI | SF,22,0.4,16.4,12.9,1123
+472,John KoncharMEM | SF,29,0.4,14.3,8,558
+473,Elijah HarklessUTA | SG,25,0.4,18.3,12.3,138
+474,Cody WilliamsUTA | SF,21,0.4,17.4,12.5,1060
+475,Spencer JonesDEN | SF,24,0.3,17.1,13.7,125
+476,Jordan WalshBOS | SF,21,0.3,15.4,11.5,403
+477,Jericho SimsMIL | C,27,0.3,10.7,7.6,632
+478,Cole Swider| PF,26,0.3,19.8,16.7,169
+479,Alex Reese| PF,26,0.3,15.3,13.2,216
+480,Alex Ducas| SG,25,0.3,15.4,11.8,125
+481,Micah PotterSAS | C,27,0.2,13.7,10.3,705
+482,Maxi KleberLAL | C,34,0.2,13.9,8.7,637
+483,JT Thor| PF,23,0.1,15.2,13.1,249
